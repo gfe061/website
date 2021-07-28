@@ -26,6 +26,8 @@ design:
     text_color_light: false
   spacing:
     padding: ["20px", "0", "20px", "0"]
+
+active: false
 ---
 
 Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.

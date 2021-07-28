@@ -14,7 +14,7 @@ subtitle:
 
 design:
   columns: '2'
-active=false
+active: false
 ---
 
 {{< gallery album="themes" >}}
