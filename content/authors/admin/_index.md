@@ -1,16 +1,15 @@
 ---
 bio: Political stuff, history stuff, economy stuff... I guess?
-education:
-  courses:
-  - course: PhD in History
-    institution: Princeton University
-    year: 2016
-  - course: MA in History
-    institution: Columbia University
-    year: 2009
-  - course: BA in Political Science and Russian Language and Literature
-    institution: Middlebury College
-    year: 2000
+# education:
+#   courses:
+#   - course: PhD in History
+#     institution: Princeton University
+#     year: 2016
+#   - course: MA in History
+#     institution: Columbia University
+#     year: 2009
+#   - course: BA in 
+#     year: 
 email: ""
 highlight_name: false
 interests:
