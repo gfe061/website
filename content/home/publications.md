@@ -11,7 +11,7 @@ active: true
 weight: 20
 
 title: Publications
-subtitle: 'List of publications'
+subtitle:
 
 content:
   # Page type to display. E.g. post, talk, publication...
