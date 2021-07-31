@@ -6,9 +6,9 @@
 # Appearance
 
 theme: my_theme
-day_night: true
-font: ''
-font_size: L
+day_night: false
+font: classic
+font_size: M
 
 # SEO
 

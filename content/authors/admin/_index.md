@@ -1,5 +1,5 @@
 ---
-bio: Political stuff, history stuff, economy stuff... I guess?
+bio: 
 # education:
 #   courses:
 #   - course: PhD in History
@@ -10,16 +10,17 @@ bio: Political stuff, history stuff, economy stuff... I guess?
 #     year: 2009
 #   - course: BA in 
 #     year: 
-email: ""
+email: "gregory.fergusoncradler@inn.no"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Economic history
+- Climate and energy
+- Financial crises
+- Russia and former Soviet Union
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Inland Norway University of Applied Sciences
+  url: https://www.inn.no/
+role: Associate Professor of Modern History
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,8 +44,4 @@ social:
 # title: Nelson Bighetti
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am researcher and associate professor in modern history at Inland Norway University of Applied Sciences working on economic history and politics and history of climate and energy. I teach in the program for International Studies with History. Current projects include political economies of electricity and the energy transition, history of carbon emissions, and global financial crises of the 1990s. Previous work included extended project on fisheries regulation and political economies. I also have an interest in digital and quantitative text analysis and use of machine learning in the social sciences and humanities.

@@ -9,18 +9,19 @@ primary = "#EF476F"
 
 # Menu
 menu_primary = "#F7F7F7"
-menu_text = "#FCA311"
-menu_text_active = "#0EAD69"
+menu_text = "#B16E10"
+menu_text_active = "#084559"
 menu_title = "#118AB2"
+menu_text_hover = "#118AB2"
 
 # Backgrounds
 background = "#F7F7F7"
 home_section_odd = "#F7F7F7"
-home_section_even = "#F7F7F7"
+home_section_even = "#EEEEEE"
 
 dark_background = ""
 dark_home_section_odd = ""
 dark_home_section_even = ""
 
-link = "#D90429"
-link_hover = "#118AB2"
+link = "#B16E10"
+link_hover = "#397589"
