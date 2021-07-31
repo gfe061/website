@@ -1,7 +1,0 @@
----
-summary: More about my work experience
-title: "Publications"
-type: widget_page
----
-
-STuff written here!

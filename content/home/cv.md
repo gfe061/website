@@ -13,4 +13,4 @@ title: 'CV'
 subtitle:
 ---
 
-CV can be downloaded in [PDF](cv/cv_fergusoncradler.pdf) form.
+CV can be downloaded in [PDF](cv/cv_ferguson
