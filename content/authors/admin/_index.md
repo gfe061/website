@@ -24,7 +24,7 @@ role: Associate Professor of Modern History
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: "mailto:gregory.fergusoncradler@inn.no"
 # - display:
 #     header: true
 #   icon: twitter
