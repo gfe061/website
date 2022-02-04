@@ -34,7 +34,6 @@ summary: "This article looks at how fisheries biologists of the early twentieth 
 and measured overfishing and attempted to make it a scientific object."
 tags:
 - Fisheries
-- Overfishing
 title: The Overfishing Problem: Natural and Social Categories in Early Twentieth-Century Fisheries Science
 url_code: ""
 url_dataset: ""
