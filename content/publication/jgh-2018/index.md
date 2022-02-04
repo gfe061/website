@@ -22,7 +22,7 @@ projects: [History of fisheries regulation]
 publication: 'Journal of Global History'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2018-10-01"
 # slides: example
 summary: "Analyses three fisheries crises in the post-war world – the Far East Asian Kamchatka salmon
@@ -30,6 +30,7 @@ in the late 1950s, the north Atlantic Atlanto-Scandian herring of the late 1960s
 anchoveta of the early 1970s."
 tags:
 - Fisheries
+- Collapse
 title: Fisheries' collapse and the making of a global event, 1950s--1970s
 url_code: ""
 url_dataset: ""

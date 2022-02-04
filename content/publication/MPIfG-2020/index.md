@@ -13,7 +13,7 @@ projects: [Political economies of electricity]
 publication: MPIfG Discussion Paper
 publication_short: ""
 publication_types:
-- "1"
+- "4"
 publishDate: "2020-04-01"
 # slides: example
 summary: "This paper discusses the historically constituted nature of the categories of property, capital, and the firm and how these literatures provide helpful frameworks for analyzing the recent history and possible futures of electricity sectors."
