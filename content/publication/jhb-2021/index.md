@@ -23,7 +23,7 @@ doi: ""
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
 #   focal_point: ""
 #   preview_only: false
-projects: [Fisheries]
+projects: [History of fisheries regulation]
 publication: 'Journal of the History of Biology'
 publication_short: ""
 publication_types:
@@ -34,10 +34,11 @@ summary: "This article looks at how fisheries biologists of the early twentieth 
 and measured overfishing and attempted to make it a scientific object."
 tags:
 - Fisheries
+- Overfishing
 title: The Overfishing Problem: Natural and Social Categories in Early Twentieth-Century Fisheries Science
 url_code: ""
 url_dataset: ""
-url_pdf: "https://link.springer.com/article/10.1007/s10739-021-09655-4"
+url_pdf: https://link.springer.com/article/10.1007/s10739-021-09655-4
 url_poster: ""
 url_project: ""
 url_slides: ""
