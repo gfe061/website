@@ -1,5 +1,5 @@
 ---
-  abstract: "In 2011, the major German electricity-producing utilities faced an existential crisis: a sudden and 
+abstract: "In 2011, the major German electricity-producing utilities faced an existential crisis: a sudden and 
 unexpected volte-face on nuclear power regulation together with greatly increased competition from renewables and severe 
 economic downturn in their core markets. The situation approximates, on a small scale, fears around what has been called 
 “transition risk”: the danger to economies and financial systems posed by an abrupt transition away from fossil fuel energy 
@@ -18,7 +18,7 @@ doi: ""
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
 #   focal_point: ""
 #   preview_only: false
-projects: [Fisheries]
+projects: [Energy transitions]
 publication: 'Ecological Economics'
 publication_short: ""
 publication_types:
@@ -28,7 +28,7 @@ publishDate: "2021-02-12"
 summary: "This article takes a business history approach to consider what one case of a “sudden stop” looked like on the 
 ground in the case of the German nuclear stop."
 tags:
-- Energy transition
+- Energy transitions
 - Business history
 title: Corporate strategy in the Anthropocene: German electricity utilities and the nuclear sudden stop
 url_code: ""

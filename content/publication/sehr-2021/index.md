@@ -39,9 +39,7 @@ engage with the ‘narrative turn’ in economics while also building on and
 offering a macro-level corrective to the focus on narrative in history."
 tags:
 - Quantitative text analysis
-- Topic models
-- Distant reading
-- Narrative economics
+- Economic history
 title: Narrative and computational text analysis in business and economic history
 url_code: ""
 url_dataset: ""

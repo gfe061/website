@@ -30,7 +30,6 @@ in the late 1950s, the north Atlantic Atlanto-Scandian herring of the late 1960s
 anchoveta of the early 1970s."
 tags:
 - Fisheries
-- Collapse
 title: Fisheries' collapse and the making of a global event, 1950s--1970s
 url_code: ""
 url_dataset: ""
