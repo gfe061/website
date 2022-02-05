@@ -1,36 +1,26 @@
 ---
-abstract: "This article analyses three fisheries crises in the post-war world – the Far East Asian Kamchatka salmon
-in the late 1950s, the north Atlantic Atlanto-Scandian herring of the late 1960s, and the Peruvian
-anchoveta of the early 1970s – to understand how each instance came to be understood as
-a ‘collapse’ in widely differing contexts and institutional settings, and how these crises led to
-changes in practices of natural resource administration and in politico-economic structures of the
-fishing industry. Fishery collapses were broadly understood as state failures and, in response, individual
-states increasingly claimed sovereignty over fish stocks and the responsibility to administer
-their exploitation. Collapses thus became events critical in the remaking of management regimes.
-Furthermore, the concept of a fisheries collapse was reconfigured in the 1970s into a global issue,
-representing the possible future threat of depletion of the oceans on a planetary scale."
+abstract: "In 2011, the major German electricity-producing utilities faced an existential crisis: a sudden and unexpected volte-face on nuclear power regulation together with greatly increased competition from renewables and severe economic downturn in their core markets. The situation approximates, on a small scale, fears around what has been called “transition risk”: the danger to economies and financial systems posed by an abrupt transition away from fossil fuel energy production. This article takes a business history approach to consider what one case of a “sudden stop” looked like on the ground. How did the four major German electrical utilities react to a situation in which their operations, strategies, and balance sheets were suddenly thrown into disrepair? In the end, the utilities adopted widely varying strategies in attempts to adapt to changing circumstances. The reasons for and ways in which companies chose differing paths in response to similar external shocks can be instructive for thinking about cases where deep and rapid transformation is necessary and how scenarios with potential for transition risk might unfold at the firm level."
 authors:
 - admin
-date: "2018-10-01"
+date: "2022-02-01"
 doi: ""
 # featured: false
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
 #   focal_point: ""
 #   preview_only: false
-projects: [History of fisheries regulation]
-publication: 'Journal of Global History'
+projects: Energy transitions]
+publication: 'Ecological Economics'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2018-10-01"
+publishDate: "2022-02-01"
 # slides: example
-summary: "Analyses three fisheries crises in the post-war world – the Far East Asian Kamchatka salmon
-in the late 1950s, the north Atlantic Atlanto-Scandian herring of the late 1960s, and the Peruvian
-anchoveta of the early 1970s."
+summary: "This article takes a business history approach to consider what one case of a “sudden stop” looked like on the ground in the case of the sudden German nuclear 
+phase-out decision in 2011"
 tags:
-- Fisheries
-title: Fisheries' collapse and the making of a global event, 1950s--1970s
+- Energy transitions
+title: "Corporate strategy in the Anthropocene: German electricity utilities and the nuclear sudden stop"
 url_code: ""
 url_dataset: ""
 url_pdf: ""
