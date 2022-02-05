@@ -38,12 +38,12 @@ links:
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
-#   url: https://twitter.com/georgecushen
+#   url: 
   - icon: github
     icon_pack: fab
-    name: Code and slides
+    name: Code
     url: https://github.com/gfe061/ntnutext
-url_code: ""
+url_site: "https://gfe061.github.io/ntnutext/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
