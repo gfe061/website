@@ -9,7 +9,7 @@ doi: ""
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
 #   focal_point: ""
 #   preview_only: false
-projects: Energy transitions]
+projects: [Energy transitions]
 publication: 'Ecological Economics'
 publication_short: ""
 publication_types:
