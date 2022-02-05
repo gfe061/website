@@ -13,7 +13,7 @@ location: Centre for Climate and Energy Transformation, University of Bergen
 #  country: United States
 
 summary: Possibilities and perils for a global Green New Deal.
-#abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac #faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "The possibilities and perils of a global Green New Deal."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -25,7 +25,7 @@ all_day: true
 #publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: []
+tags: [Climate politics]
 
 # Is this a featured talk? (true/false)
 featured: false
