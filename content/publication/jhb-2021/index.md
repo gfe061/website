@@ -1,5 +1,19 @@
 ---
-abstract: "Other stuff."
+abstract: "This article looks at how fisheries biologists of the early twentieth century conceptualized
+and measured overfishing and attempted to make it a scientific object. Considering
+both theorizing and physical practices, the essay shows that categories and
+understandings of both the fishing industry and fisheries science were deeply and,
+at times, inextricably interwoven. Fish were both scientific and economic objects.
+The various models fisheries science used to understand the world reflected amalgamations
+of biological, physical, economic, and political factors. As a result, scientists
+had great difficulty stabilizing the concept of overfishing and many influential
+scholars into the 1930s even doubted the coherence of the concept. In light of recent
+literature in history of fisheries and environmental social sciences that critiques the
+infiltration of political and economic imperatives into fisheries and environmental
+sciences more generally, this essay highlights both how early fisheries scientists
+understood their field of study as the entire combination of interactions between
+political, economic, biological and physical factors and the work that was necessary
+to separate them."
 authors:
 - admin
 date: "2021-11-01"
@@ -16,9 +30,8 @@ publication_types:
 - "2"
 publishDate: "2021-11-01"
 # slides: example
-summary: "Analyses three fisheries crises in the post-war world – the Far East Asian Kamchatka salmon
-in the late 1950s, the north Atlantic Atlanto-Scandian herring of the late 1960s, and the Peruvian
-anchoveta of the early 1970s."
+summary: "This article looks at how fisheries biologists of the early twentieth century conceptualized
+and measured overfishing and attempted to make it a scientific object."
 tags:
 - Fisheries
 title: "The Overfishing Problem: Natural and Social Categories in Early Twentieth-century Fisheries Science"
