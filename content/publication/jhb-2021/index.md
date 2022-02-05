@@ -37,7 +37,7 @@ tags:
 title: "The Overfishing Problem: Natural and Social Categories in Early Twentieth-century Fisheries Science"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: https://link.springer.com/article/10.1007/s10739-021-09655-4
 url_poster: ""
 url_project: ""
 url_slides: ""
