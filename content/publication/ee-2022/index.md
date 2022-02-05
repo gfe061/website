@@ -33,7 +33,7 @@ tags:
 title: Fisheries' collapse and the making of a global event, 1950s--1970s
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.cambridge.org/core/journals/journal-of-global-history/article/fisheries-collapse-and-the-making-of-a-global-event-1950s1970s/AB194DC3E92CCD7A7379F4206E059D63
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
