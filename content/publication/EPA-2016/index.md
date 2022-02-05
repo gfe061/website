@@ -19,6 +19,7 @@ publishDate: "2016-09-01"
 summary: "This essay takes the Soviet–Japanese Fisheries Convention of the Northwest Pacific Ocean of 1956 as a case study to consider the nature and characteristics of scientific disputes in highly politically-charged contexts outside frameworks of nation-states or international bodies."
 tags:
 - Fisheries
+- Soviet Union/Russia
 title: "Science, states, and salmon: Communicating through disagreement over a Cold War fault line"
 url_code: 
 url_dataset: ""

@@ -20,6 +20,7 @@ summary: "This article takes a business history approach to consider what one ca
 phase-out decision in 2011"
 tags:
 - Energy transitions
+- Germany
 title: "Corporate strategy in the Anthropocene: German electricity utilities and the nuclear sudden stop"
 url_code: ""
 url_dataset: ""

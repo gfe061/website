@@ -18,7 +18,9 @@ publishDate: "2020-04-01"
 # slides: example
 summary: "This paper discusses the historically constituted nature of the categories of property, capital, and the firm and how these literatures provide helpful frameworks for analyzing the recent history and possible futures of electricity sectors."
 tags:
-- Fisheries
+- Energy transitions
+- Institutionalism
+- Germany
 title: "Ownership in the electricity market: Property, the firm, and the climate crisis"
 url_code: ""
 url_dataset: ""

@@ -19,10 +19,11 @@ publishDate: "2017-10-01"
 summary: "This essay looks at how the practices of Soviet fisheries science, focusing on the Caspian Sea region, changed in the late 1920s and 1930s."
 tags:
 - Fisheries
+- Soviet Union/Russia
 title: Forecasting Fisheries. Prediction and the planned economy in the Interwar Soviet Union
 url_code: ""
 url_dataset: ""
-url_pdf: 
+url_pdf: https://journals.openedition.org/monderusse/10131
 url_poster: ""
 url_project: ""
 url_slides: ""
