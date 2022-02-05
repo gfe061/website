@@ -21,10 +21,10 @@ in the late 1950s, the north Atlantic Atlanto-Scandian herring of the late 1960s
 anchoveta of the early 1970s."
 tags:
 - Fisheries
-title: The Overfishing Problem: Natural and Social Categories in Early Twentieth-century Fisheries Science
+title: "The Overfishing Problem: Natural and Social Categories in Early Twentieth-century Fisheries Science"
 url_code: ""
 url_dataset: ""
-url_pdf: 
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
