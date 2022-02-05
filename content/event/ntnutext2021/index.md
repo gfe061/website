@@ -43,7 +43,9 @@ links:
     icon_pack: fab
     name: Code
     url: https://github.com/gfe061/ntnutext
-url_site: "https://gfe061.github.io/ntnutext/"
+  - name: Web Site
+    url: https://gfe061.github.io/ntnutext/
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
