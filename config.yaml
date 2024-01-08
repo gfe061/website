@@ -7,6 +7,7 @@ theme: "starter-hugo-academic"
 # REMINDER HOW TO COMMIT TO GIT:
 # git add *, git commit -m "xxx", git push -u origin main
 
+# REMINDER on how to edit: files saved in CV and Jobs/academic-site/content/
 title: Gregory Ferguson-Cradler # Website name
 baseurl: 'https://gferguson.netlify.app/' # Website URL
 copyright: '© {year}' # Footer text, e.g. '© {year} Me'
