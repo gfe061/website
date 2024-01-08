@@ -17,7 +17,7 @@ abstract: "Russlands brutale krig mot Ukraina har fått vestlige land til å inn
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-12-25"
+date: "2023-01-25"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
@@ -41,7 +41,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/files/vettugviten2023"
 url_video: ""
 
 # Markdown Slides (optional).

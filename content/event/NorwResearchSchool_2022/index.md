@@ -1,23 +1,22 @@
 ---
-title: "Liberalisering i fiskeriforvaltning siden 1980-tallet"
+title: Quantifying History
 
-event: Norske historiedagane 2023
-#event_url: https://example.org
+event: Norwegian Research School in History
+#event_url: https://gfe061.github.io/quanthistory/
 
-location: Høgskolen på Vestlandet, Sogndal
-#address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
-#  country: United States
+location: Trondheim
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
 
-#summary: 
-#abstract: ""
+summary: "Weeklong workshop co-taught with Francisco Beltrán Tapia, provided an in-depth introduction to quantitative and computational methods, covering some of the techniques most widely used in research in the historical and social sciences."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-09-09"
+date: "2021-08-12"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
@@ -25,23 +24,29 @@ all_day: true
 #publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: [fisheries, liberalization]
+tags: [Quantitative text analysis]
 
 # Is this a featured talk? (true/false)
 featured: false
 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#   focal_point: Right
 
 links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: 
+  - icon: github
+    icon_pack: fab
+    name: Code
+    url: https://gfe061.github.io/quanthistory/
+  - name: Web Site
+    url: https://gfe061.github.io/quanthistory/
 url_code: ""
 url_pdf: ""
-url_slides: "/files/sogndalpres2023.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
@@ -59,3 +64,4 @@ url_video: ""
 #projects:
 #- internal-project
 ---
+
