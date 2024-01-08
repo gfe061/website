@@ -3,7 +3,7 @@ abstract: "In 2011, the major German electricity-producing utilities faced an ex
 authors:
 - admin
 date: "2022-02-01"
-doi: ""
+doi: "10.1016/j.ecolecon.2021.107315"
 # featured: false
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -24,7 +24,7 @@ tags:
 title: "Corporate strategy in the Anthropocene: German electricity utilities and the nuclear sudden stop"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0921800921003748/pdfft?md5=fd97bf9de04681c2bbccd400bf78276a&pid=1-s2.0-S0921800921003748-main.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
