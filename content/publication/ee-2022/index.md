@@ -16,8 +16,7 @@ publication_types:
 - "2"
 publishDate: "2022-02-01"
 # slides: example
-summary: "This article takes a business history approach to consider what one case of a “sudden stop” looked like on the ground in the case of the sudden German nuclear 
-phase-out decision in 2011"
+summary: "This article takes a business history approach to consider what one case of a “sudden stop” looked like on the ground in the case of the sudden German nuclear phase-out decision in 2011."
 tags:
 - Energy transitions
 - Germany

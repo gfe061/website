@@ -16,8 +16,8 @@ summary: "Weeklong workshop co-taught with Francisco Beltrán Tapia, provided an
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-08-12"
-#date_end: "2030-06-01T15:00:00Z"
+date: "2022-11-21"
+date_end: "2022-11-25"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
