@@ -12,7 +12,7 @@ location: Global Climate Forum, Berlin, Germany
 #  postcode: '94305'
 #  country: United States
 
-#summary: 
+#summary: This talk examined the relationship of global payments systems and energy regimes from the 19th century to the present.
 #abstract: ""
 
 # Talk start and end times.
@@ -25,7 +25,7 @@ all_day: true
 #publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: [fisheries, liberalization]
+tags: [global dollar system, climate change, fossil fuels]
 
 # Is this a featured talk? (true/false)
 featured: true
