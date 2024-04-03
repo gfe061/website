@@ -1,8 +1,8 @@
 ---
 title: "Aggressiv nøytralitet i sør. Hvordan påvirkes norsk utenrikspolitikk?"
 
-event: Responskonferansen: Norsk utenrikspolitikk for en ny tid
-event_url: "https://www.regjeringen.no/no/dep/ud/respons/se-alle-sendingene-fra-respons-konferansene/id3016376/#tocNode_4"
+event: Responskonferansen. Norsk utenrikspolitikk for en ny tid
+event_url: https://www.regjeringen.no/no/dep/ud/respons/se-alle-sendingene-fra-respons-konferansene/id3016376/#tocNode_4
 
 location: Høgskolen i Innlandet
 #address:
@@ -38,8 +38,8 @@ links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-#  url: https://twitter.com/georgecushen
-url_code: "https://www.inn.no/arrangementer/hinn-arrangementer-2023/responskonferansen/"
+#  url: "https://www.inn.no/arrangementer/hinn-arrangementer-2023/responskonferansen/"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: "https://video.regjeringen.no/player24/data/video/a10ae6ee-8aed-4ece-9dc4-95885126de52/a10ae6ee-8aed-4ece-9dc4-95885126de52_720p.mp4"
