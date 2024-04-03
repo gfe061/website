@@ -2,7 +2,7 @@
 title: "Aggressiv nøytralitet i sør. Hvordan påvirkes norsk utenrikspolitikk?"
 
 event: Responskonferansen: Norsk utenrikspolitikk for en ny tid
-event_url: https://www.regjeringen.no/no/dep/ud/respons/se-alle-sendingene-fra-respons-konferansene/id3016376/#tocNode_4
+event_url: "https://www.regjeringen.no/no/dep/ud/respons/se-alle-sendingene-fra-respons-konferansene/id3016376/#tocNode_4"
 
 location: Høgskolen i Innlandet
 #address:
